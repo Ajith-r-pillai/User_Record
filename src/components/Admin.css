@@ -1,0 +1,19 @@
+.searchh{
+    width: 100%;
+  display: flex;
+  justify-content: center;
+    background-position: 10px 10px!important;
+    background-repeat: no-repeat!important;
+    padding-left: 40px!important;
+  }
+  .searchh input{
+    border-radius: 1.3rem;
+    outline: none!important;
+    /* border-color: blue; */
+    width: 21rem;
+    height: 2.5rem;
+    border: none;
+    /* color: aqua; */
+    background-color:#acbec0!important;
+    text-align: center;
+  }
